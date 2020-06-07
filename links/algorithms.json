@@ -1,0 +1,19 @@
+[{
+    "es_ES": [{
+            "Title": "A Estrella",
+            "Link": "https://zrekoj.github.io/A-search-algorithm"
+        },
+        {
+            "Title": "ID3",
+            "Link": "https://zrekoj.github.io/ID3-Algorithm"
+        },
+        {
+            "Title": "Aprendizaje",
+            "Link": "https://zrekoj.github.io/Machine-Learning-Algorithms"
+        },
+        {
+            "Title": "El Problema del Viajante",
+            "Link": "https://zrekoj.github.io/Travelling-Salesman-Problem"
+        }
+    ]
+}]
