@@ -14,6 +14,10 @@
         {
             "Title": "El Problema del Viajante",
             "Link": "https://zrekoj.github.io/Travelling-Salesman-Problem"
+        },
+        {
+            "Title": "Planificador Laberinto",
+            "Link": "https://zrekoj.github.io/labyrinth-planning-algorithm"
         }
     ]
 }
