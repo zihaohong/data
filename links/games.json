@@ -4,12 +4,12 @@
     "games": [
       {
         "title": "Snake Game",
-        "link": "snake-game/",
+        "link": "https://zihaohong.github.io/snake-game/",
         "description": "Classic snake game - eat food and grow longer!"
       },
       {
         "title": "Tic Tac Toe",
-        "link": "tic-tac-toe/",
+        "link": "https://zihaohong.github.io/tic-tac-toe/",
         "description": "Classic 3x3 grid game - get 3 in a row!"
       }
     ]
@@ -19,12 +19,12 @@
     "games": [
       {
         "title": "贪吃蛇游戏",
-        "link": "snake-game/",
+        "link": "https://zihaohong.github.io/snake-game/",
         "description": "经典贪吃蛇游戏 - 吃食物变长！"
       },
       {
         "title": "井字棋",
-        "link": "tic-tac-toe/",
+        "link": "https://zihaohong.github.io/tic-tac-toe/",
         "description": "经典 3x3 棋盘游戏 - 三子连线获胜！"
       }
     ]
