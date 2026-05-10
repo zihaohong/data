@@ -13,6 +13,12 @@
         "link": "https://zihaohong.github.io/tic-tac-toe-game/",
         "description": "Classic 3x3 grid game - get 3 in a row!",
         "usage": "Click on any cell to place your mark (X or O). Players take turns, starting with X. First player to get 3 marks in a row (horizontal, vertical, or diagonal) wins."
+      },
+      {
+        "title": "Battle City",
+        "link": "https://zihaohong.github.io/battle-city-game/",
+        "description": "Classic tank battle game - destroy enemy tanks!",
+        "usage": "Use Arrow Keys, WASD, or swipe gestures to control your tank. Press Spacebar or double tap to shoot. Destroy enemy tanks to earn points. Avoid enemy bullets and walls. You have 3 lives - use them wisely!"
       }
     ]
   },
@@ -30,6 +36,12 @@
         "link": "https://zihaohong.github.io/tic-tac-toe-game/",
         "description": "经典 3x3 棋盘游戏 - 三子连线获胜！",
         "usage": "点击任意格子放置你的标记（X 或 O）。玩家轮流进行，X 先手。第一个在行、列或对角线上连成三个标记的玩家获胜。"
+      },
+      {
+        "title": "坦克大战",
+        "link": "https://zihaohong.github.io/battle-city-game/",
+        "description": "经典坦克大战游戏 - 摧毁敌方坦克！",
+        "usage": "使用方向键、WASD 或滑动手势控制你的坦克。按空格键或双击屏幕射击。摧毁敌方坦克获得分数。躲避敌方子弹和墙壁。你有 3 条生命 - 谨慎使用！"
       }
     ]
   }
