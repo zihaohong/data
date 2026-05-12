@@ -19,6 +19,18 @@
         "link": "https://zihaohong.github.io/battle-city-game/",
         "description": "Classic tank battle game - destroy enemy tanks!",
         "usage": "Use Arrow Keys, WASD, or swipe gestures to control your tank. Press Spacebar or double tap to shoot. Destroy enemy tanks to earn points. Avoid enemy bullets and walls. You have 3 lives - use them wisely!"
+      },
+      {
+        "title": "2048",
+        "link": "https://zihaohong.github.io/2048-game/",
+        "description": "Classic sliding tile puzzle - combine numbers to reach 2048!",
+        "usage": "Use Arrow Keys or swipe to move tiles. When two tiles with the same number touch, they merge into one with their sum. Try to reach 2048!"
+      },
+      {
+        "title": "Piano Tiles",
+        "link": "https://zihaohong.github.io/piano-tiles-game/",
+        "description": "Fast-paced rhythm game - tap falling tiles!",
+        "usage": "Tap the black tiles as they fall down. Don't tap the white spaces! The game gets faster as your score increases. How far can you go?"
       }
     ]
   },
@@ -42,6 +54,18 @@
         "link": "https://zihaohong.github.io/battle-city-game/",
         "description": "经典坦克大战游戏 - 摧毁敌方坦克！",
         "usage": "使用方向键、WASD 或滑动手势控制你的坦克。按空格键或双击屏幕射击。摧毁敌方坦克获得分数。躲避敌方子弹和墙壁。你有 3 条生命 - 谨慎使用！"
+      },
+      {
+        "title": "2048",
+        "link": "https://zihaohong.github.io/2048-game/",
+        "description": "经典滑动方块游戏 - 合并数字达到2048！",
+        "usage": "使用方向键或滑动来移动方块。当两个相同数字的方块接触时，它们会合并成一个更大的数字。尝试达到2048！"
+      },
+      {
+        "title": "钢琴块",
+        "link": "https://zihaohong.github.io/piano-tiles-game/",
+        "description": "快节奏节奏游戏 - 点击下落的方块！",
+        "usage": "当黑色方块落下时点击它们。不要点击白色区域！随着分数增加，游戏速度会变快。你能坚持多久？"
       }
     ]
   }
