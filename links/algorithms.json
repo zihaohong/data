@@ -1,19 +1,30 @@
 {
-    "es_ES": [{
-            "Title": "A Estrella",
-            "Link": "https://zrekoj.github.io/A-search-algorithm"
-        },
-        {
-            "Title": "ID3",
-            "Link": "https://zrekoj.github.io/ID3-Algorithm"
-        },
-        {
-            "Title": "Aprendizaje",
-            "Link": "https://zrekoj.github.io/Machine-Learning-Algorithms"
-        },
-        {
-            "Title": "El Problema del Viajante",
-            "Link": "https://zrekoj.github.io/Travelling-Salesman-Problem"
-        }
-    ]
+  "en": {
+    "A* Search": {
+      "url": "https://zrekoj.github.io/A-search-algorithm"
+    },
+    "ID3": {
+      "url": "https://zrekoj.github.io/ID3-Algorithm"
+    },
+    "Machine Learning": {
+      "url": "https://zrekoj.github.io/Machine-Learning-Algorithms"
+    },
+    "Travelling Salesman": {
+      "url": "https://zrekoj.github.io/Travelling-Salesman-Problem"
+    }
+  },
+  "es_ES": {
+    "A Estrella": {
+      "url": "https://zrekoj.github.io/A-search-algorithm"
+    },
+    "Aprendizaje": {
+      "url": "https://zrekoj.github.io/Machine-Learning-Algorithms"
+    },
+    "El Problema del Viajante": {
+      "url": "https://zrekoj.github.io/Travelling-Salesman-Problem"
+    },
+    "ID3": {
+      "url": "https://zrekoj.github.io/ID3-Algorithm"
+    }
+  }
 }
