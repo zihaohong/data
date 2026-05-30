@@ -24,6 +24,11 @@
       "url": "https://zihaohong.github.io/tic-tac-toe-game/",
       "description": "Classic 3x3 grid game - get 3 in a row!",
       "usage": "Click on any cell to place your mark (X or O). Players take turns, starting with X. First player to get 3 marks in a row (horizontal, vertical, or diagonal) wins."
+    },
+    "Carnival of Sins": {
+      "url": "https://zihaohong.github.io/carnival-of-sins-game/",
+      "description": "Roll the dice, choose your sin - 7 rounds of sinful decisions!",
+      "usage": "Roll 7 dice then choose one of 7 Sin cards. Each card calculates points differently. Cards can only be used once."
     }
   },
   "zh": {
@@ -51,6 +56,11 @@
       "url": "https://zihaohong.github.io/tic-tac-toe-game/",
       "description": "经典 3x3 棋盘游戏 - 三子连线获胜！",
       "usage": "点击任意格子放置你的标记（X 或 O）。玩家轮流进行，X 先手。第一个在行、列或对角线上连成三个标记的玩家获胜。"
+    },
+    "罪恶嘉年华": {
+      "url": "https://zihaohong.github.io/carnival-of-sins-game/",
+      "description": "掷骰子，选择你的罪恶 - 7 轮罪恶决策！",
+      "usage": "掷 7 个骰子然后选择 7 个罪恶卡之一。每张卡片以不同方式计算分数。每张卡片只能使用一次。"
     }
   }
 }
